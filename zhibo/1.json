@@ -10,21 +10,9 @@
            "type": 3,
            "api": "./lib/直播转点播.js",
             "ext": "./lib/1.json"
-        },
-		 {
-           "key": "直播转点播2",
-           "name": "🔞特色系列直播",
-           "type": 3,
-           "api": "./lib/直播转点播.js",
-            "ext": "./lib/2.json"
-        },
-		{
-		"key": "直播转点播3",
-		"name": "📛TH┃福利点播",
-		"type": 3,
-		"api": "./lib/TH.js",
-		"ext": "./lib/3.json"
-    }
+        }
+		// {           "key": "直播转点播2",           "name": "🔞特色系列直播",           "type": 3,           "api": "./lib/直播转点播.js",            "ext": "./lib/2.json"        },
+	//	{		"key": "直播转点播3",		"name": "📛TH┃福利点播",		"type": 3,		"api": "./lib/TH.js",		"ext": "./lib/3.json"    }
        ],
     "parses": [
     {
