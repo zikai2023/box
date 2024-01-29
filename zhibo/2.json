@@ -8,7 +8,7 @@
     "searchable":1,
    "quickSearch":1,
    "filterable":1, 
-   "jar":"./lib/XYQ1.jar",
+   "jar":"./lib/xyq.jar",
    "ext":"./lib/黑料网.json"
    },
    {
