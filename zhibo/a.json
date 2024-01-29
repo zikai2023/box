@@ -1,7 +1,7 @@
 {
   "urls": [
     {"url":"https://ghproxy.net/https://raw.githubusercontent.com/zikai2023/box/main/zhibo/1.json","name":"🍥直播频道🍥"},
-	{"url":"https://ghproxy.net/https://raw.githubusercontent.com/zikai2023/box/main/zhibo/2.json","name":"🍥特色料理🍥"},
+	{"url":"https://api.cainisi.cf/tvbox/?url=https://raw.githubusercontent.com/zikai2023/box/main/zhibo/2.json","name":"🍥特色料理🍥"},
 	{"url":"","name":"🍥点击\"主页\"选择更多菜单🍥"}
  ]
 }
