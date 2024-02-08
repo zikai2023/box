@@ -1,14 +1,6 @@
 {
     "sites": [
-        {
-            "key": "豆豆",
-            "name": "❤遥遥领先❤",
-            "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+      
         {
             "key": "豆豆1",
             "name": "┃超级🥰秒播┃",
@@ -18,15 +10,7 @@
             "quickSearch": 0,
             "filterable": 0
         },
-        {
-            "key": "南瓜",
-            "name": "❤遥遥领先❤",
-            "type": 3,
-            "api": "csp_NanGua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+       
         {
             "key": "天天",
             "name": "❤请勿外传❤",
