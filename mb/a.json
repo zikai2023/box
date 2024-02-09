@@ -1,8 +1,8 @@
 {
   "urls": [
-	{"url":"https://ghproxy.net/https://raw.githubusercontent.com/zikai2023/box/main/mb/miao.json","name":"🍥秒播荟萃🍥"},
-	{"url":"https://ghproxy.net/https://raw.githubusercontent.com/zikai2023/box/main/mb/4k.json","name":"🍥4K荟萃🍥"},
-	{"url":"https://ghproxy.net/https://raw.githubusercontent.com/zikai2023/box/main/mb/zhongyi/1.json","name":"🍥中华老中医🍥"},
+	{"url":"https://raw.kkgithub.com/zikai2023/box/main/mb/miao.json","name":"🍥秒播荟萃🍥"},
+	{"url":"https://raw.kkgithub.com/zikai2023/box/main/mb/4k.json","name":"🍥4K荟萃🍥"},
+	{"url":"https://raw.kkgithub.com/zikai2023/box/main/mb/zhongyi/1.json","name":"🍥中华老中医🍥"},
 	{"url":"","name":"🍥点击\"主页\"选择更多菜单🍥"}
  ]
 }
