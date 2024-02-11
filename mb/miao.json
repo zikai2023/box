@@ -1,6 +1,6 @@
 {
 
-    "spider": "./lib/fty.jar",
+    "spider": "./lib/秒播.jar",
     "warningText": "接口完全免费，随便白嫖。",
     "sites": [
         {
