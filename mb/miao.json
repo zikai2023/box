@@ -1,4 +1,7 @@
 {
+	    "wallpaper": "https://img.n13.club/",
+    "spider": "./lib/fty.jar",
+    "warningText": "接口完全免费，随便白嫖。",
     "sites": [
         {
             "key": "豆豆1",
@@ -1145,9 +1148,7 @@
             }
         }
     ],
-    "wallpaper": "https://img.n13.club/",
-    "spider": "./lib/fty.jar",
-    "warningText": "接口完全免费，随便白嫖。",
+
     "lives": [
         {
             "name": "超级秒播",
