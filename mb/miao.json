@@ -1,6 +1,5 @@
 {
     "sites": [
-   
         {
             "key": "豆豆1",
             "name": "┃超级🥰秒播┃",
@@ -10,7 +9,6 @@
             "quickSearch": 0,
             "filterable": 0
         },
-		
         {
             "key": "软件教程",
             "name": "📚软件教程",
@@ -21,52 +19,50 @@
             "filterable": 1,
             "ext": "./lib/jiaocheng.json"
         },
-     {
-      "key": "csp_Bili_zyy",
-      "name": "🅱️┃中医┃药区",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://mdxgh.dynv6.net/viplib/zyy.json"
-    },
-    {
-      "key": "csp_Bili_xuqu1",
-      "name": "🅱️┃戏曲┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://mdxgh.dynv6.net/viplib/xiqu.json"
-    },
-    {
-      "key": "csp_Bili_TYjs",
-      "name": "🅱️┃体育┃健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://mdxgh.dynv6.net/viplib/tiyu.json"
-    },
-    {
-      "key": "csp_Bili_xiangsh",
-      "name": "🅱️┃相声┃小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://mdxgh.dynv6.net/viplib/xiaopin.json"
-    },
-     
-
+        {
+            "key": "csp_Bili_zyy",
+            "name": "🅱️┃中医┃药区",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+            "ext": "http://mdxgh.dynv6.net/viplib/zyy.json"
+        },
+        {
+            "key": "csp_Bili_xuqu1",
+            "name": "🅱️┃戏曲┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+            "ext": "http://mdxgh.dynv6.net/viplib/xiqu.json"
+        },
+        {
+            "key": "csp_Bili_TYjs",
+            "name": "🅱️┃体育┃健身",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+            "ext": "http://mdxgh.dynv6.net/viplib/tiyu.json"
+        },
+        {
+            "key": "csp_Bili_xiangsh",
+            "name": "🅱️┃相声┃小品",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+            "ext": "http://mdxgh.dynv6.net/viplib/xiaopin.json"
+        },
         {
             "key": "csp_Czzy",
             "name": "📔┃阿姨最爱",
@@ -174,7 +170,6 @@
             "filterable": 1,
             "ext": "./lib/yingshiche.json"
         },
-       
         {
             "key": "meowtv_yqks",
             "name": "蓝光┃一起",
@@ -185,7 +180,6 @@
             "changeable": 1,
             "jar": "./lib/fan.jar"
         },
-       
         {
             "key": "蜂鸟",
             "name": "┃蜂鸟秒播┃",
@@ -406,7 +400,6 @@
             ],
             "jar": "./lib/秒播3.jar"
         },
-       
         {
             "key": "csp_xml_红牛",
             "name": "┃红牛秒播┃",
@@ -553,7 +546,6 @@
             "ext": "./lib/玩偶哥哥.json",
             "jar": "./lib/秒播3.jar"
         },
-       
         {
             "key": "鑫鑫影视",
             "name": "┃鑫鑫秒播┃",
@@ -565,7 +557,6 @@
             "ext": "http://yingszj.xn--654a.cc/api.php/app/",
             "jar": "./lib/秒播4.jar"
         },
-       
         {
             "key": "csp_MeiJu69",
             "name": "┃六九秒播┃",
@@ -623,7 +614,6 @@
             "ext": "http://yingszj.xn--654a.cc/api.php/app/",
             "jar": "./lib/秒播4.jar"
         },
-        
         {
             "key": "光速资源",
             "name": "┃光速秒播┃",
@@ -645,7 +635,6 @@
             "timeout": 60,
             "jar": "./lib/秒播10.jar"
         },
-        
         {
             "key": "豪华资源",
             "name": "┃豪华秒播┃",
@@ -681,7 +670,6 @@
                 "欧美综艺"
             ]
         },
-     
         {
             "key": "csp_苹果",
             "name": "┃苹果秒播┃",
@@ -693,7 +681,6 @@
             "ext": "./lib/苹果影视.json",
             "jar": "./lib/秒播11.jar"
         },
-       
         {
             "key": "玩偶哥哥",
             "name": "┃玩偶 4K┃",
@@ -727,7 +714,6 @@
             "ext": "https://www.maolvys.com/",
             "jar": "./lib/秒播14.jar"
         },
-     
         {
             "key": "侠客影院",
             "name": "┃侠客秒播┃",
@@ -822,7 +808,6 @@
             "changeable": 1,
             "jar": "./lib/秒播2.jar"
         },
-       
         {
             "key": "csp_胖虎",
             "name": "┃胖虎秒播┃",
@@ -867,8 +852,6 @@
             "filterable": 1,
             "jar": "./lib/秒播3.jar"
         },
-      
-    
         {
             "key": "meowtv_Shys",
             "name": "┃双黄秒播┃",
@@ -880,8 +863,6 @@
             "ext": "./lib/双黄影视.json",
             "jar": "./lib/秒播6.jar"
         },
-
-
         {
             "key": "酷酷",
             "name": "┃酷影秒播┃",
@@ -923,7 +904,6 @@
             "searchable": 1,
             "quickSearch": 1
         },
- 
         {
             "key": "suying影视",
             "name": "┃速映秒播┃",
