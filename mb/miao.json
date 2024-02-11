@@ -10,8 +10,7 @@
             "quickSearch": 0,
             "filterable": 0
         },
-     
-     
+		
         {
             "key": "软件教程",
             "name": "📚软件教程",
@@ -22,46 +21,52 @@
             "filterable": 1,
             "ext": "./lib/jiaocheng.json"
         },
-        {
-            "key": "drpy_js_腾云驾雾",
-            "name": "♨┃腾讯官源┃",
-            "type": 3,
-            "api": "./lib/apiv203drpy2.min.js",
-            "jar": "./lib/fty.jar",
-            "ext": "./lib/腾云驾雾.js"
-        },
-        {
-            "key": "drpy_360影视",
-            "name": "3️⃣┃360官源┃",
-            "type": 3,
-            "api": "./lib/apiv203drpy2.min.js",
-            "jar": "./lib/fty.jar",
-            "ext": "./lib/360影视.js"
-        },
-        {
-            "key": "drpy_js_奇珍异兽",
-            "name": "🥝┃奇艺官源┃",
-            "type": 3,
-            "api": "./lib/apiv203drpy2.min.js",
-            "jar": "./lib/fty.jar",
-            "ext": "./lib/奇珍异兽.js"
-        },
-        {
-            "key": "drpy_js_优酷",
-            "name": "😎┃优酷官源┃",
-            "type": 3,
-            "api": "./lib/apiv203drpy2.min.js",
-            "jar": "./lib/fty.jar",
-            "ext": "./lib/优酷.js"
-        },
-        {
-            "key": "drpy_js_百忙无果",
-            "name": "🥭┃芒果官源┃",
-            "type": 3,
-            "api": "./lib/apiv203drpy2.min.js",
-            "jar": "./lib/fty.jar",
-            "ext": "./lib/百忙无果.js"
-        },
+     {
+      "key": "csp_Bili_zyy",
+      "name": "🅱️┃中医┃药区",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "http://mdxgh.dynv6.net/viplib/zyy.json"
+    },
+    {
+      "key": "csp_Bili_xuqu1",
+      "name": "🅱️┃戏曲┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "http://mdxgh.dynv6.net/viplib/xiqu.json"
+    },
+    {
+      "key": "csp_Bili_TYjs",
+      "name": "🅱️┃体育┃健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "http://mdxgh.dynv6.net/viplib/tiyu.json"
+    },
+    {
+      "key": "csp_Bili_xiangsh",
+      "name": "🅱️┃相声┃小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "http://mdxgh.dynv6.net/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "http://mdxgh.dynv6.net/viplib/xiaopin.json"
+    },
+     
+
         {
             "key": "csp_Czzy",
             "name": "📔┃阿姨最爱",
@@ -169,18 +174,7 @@
             "filterable": 1,
             "ext": "./lib/yingshiche.json"
         },
-        {
-            "key": "Gitcafe",
-            "name": "┃云盘♥4K┃",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/HeChengChaXiu.jar",
-            "ext": "./lib/PG推送.json",
-            "jar": "./lib/fan.jar"
-        },
+       
         {
             "key": "meowtv_yqks",
             "name": "蓝光┃一起",
@@ -191,16 +185,7 @@
             "changeable": 1,
             "jar": "./lib/fan.jar"
         },
-        {
-            "key": "js_nangua",
-            "name": "┃秒播南瓜┃",
-            "type": 3,
-            "api": "./lib/apiv15apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/nangua.js"
-        },
+       
         {
             "key": "蜂鸟",
             "name": "┃蜂鸟秒播┃",
@@ -421,46 +406,7 @@
             ],
             "jar": "./lib/秒播3.jar"
         },
-        {
-            "key": "csp_xml_新浪",
-            "name": "┃新浪秒播┃",
-            "type": 1,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-            "categories": [
-                "动作片",
-                "大陆剧",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "动漫电影",
-                "欧美剧",
-                "港澳剧",
-                "韩剧",
-                "台湾剧",
-                "日剧",
-                "海外剧",
-                "泰剧",
-                "体育",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ],
-            "jar": "./lib/秒播3.jar"
-        },
+       
         {
             "key": "csp_xml_红牛",
             "name": "┃红牛秒播┃",
@@ -607,17 +553,7 @@
             "ext": "./lib/玩偶哥哥.json",
             "jar": "./lib/秒播3.jar"
         },
-        {
-            "key": "csp_Voflix",
-            "name": "┃Voflix秒播┃",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/voflix.json",
-            "jar": "./lib/秒播3.jar"
-        },
+       
         {
             "key": "鑫鑫影视",
             "name": "┃鑫鑫秒播┃",
@@ -629,16 +565,7 @@
             "ext": "http://yingszj.xn--654a.cc/api.php/app/",
             "jar": "./lib/秒播4.jar"
         },
-        {
-            "key": "js_changmeng",
-            "name": "┃畅梦秒播┃",
-            "type": 3,
-            "api": "./lib/apiv15apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/changmeng.js"
-        },
+       
         {
             "key": "csp_MeiJu69",
             "name": "┃六九秒播┃",
@@ -696,17 +623,7 @@
             "ext": "http://yingszj.xn--654a.cc/api.php/app/",
             "jar": "./lib/秒播4.jar"
         },
-        {
-            "key": "猎狼副视",
-            "name": "┃猎狼秒播┃",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://103.108.67.142:92/api.php/app/",
-            "jar": "./lib/秒播9.jar"
-        },
+        
         {
             "key": "光速资源",
             "name": "┃光速秒播┃",
@@ -728,16 +645,7 @@
             "timeout": 60,
             "jar": "./lib/秒播10.jar"
         },
-        {
-            "key": "555电影[V2]",
-            "name": "┃555秒播┃",
-            "type": 3,
-            "api": "./lib/apiv609drpy2.min.js",
-            "ext": "./lib/555电影[V2].js",
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./lib/秒播10.jar"
-        },
+        
         {
             "key": "豪华资源",
             "name": "┃豪华秒播┃",
@@ -773,25 +681,7 @@
                 "欧美综艺"
             ]
         },
-        {
-            "key": "春哥☆自营",
-            "name": "┃春哥秒播┃",
-            "type": 1,
-            "api": "http://mfsj.kele.plus/api.php/provide/vod/",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "短剧",
-                "电影",
-                "连续剧",
-                "少儿",
-                "动漫",
-                "综艺",
-                "体育赛事"
-            ]
-        },
+     
         {
             "key": "csp_苹果",
             "name": "┃苹果秒播┃",
@@ -803,16 +693,7 @@
             "ext": "./lib/苹果影视.json",
             "jar": "./lib/秒播11.jar"
         },
-        {
-            "key": "csp_Kuaikan",
-            "name": "┃快看秒播┃",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/秒播12.jar"
-        },
+       
         {
             "key": "玩偶哥哥",
             "name": "┃玩偶 4K┃",
@@ -846,15 +727,7 @@
             "ext": "https://www.maolvys.com/",
             "jar": "./lib/秒播14.jar"
         },
-        {
-            "key": "良人影视",
-            "name": "┃良人秒播┃",
-            "type": 3,
-            "api": "csp_qiao",
-            "jar": "./lib/j.jar",
-            "playerType": 2,
-            "ext": "./lib/良人影视.js"
-        },
+     
         {
             "key": "侠客影院",
             "name": "┃侠客秒播┃",
@@ -949,16 +822,7 @@
             "changeable": 1,
             "jar": "./lib/秒播2.jar"
         },
-        {
-            "key": "js_电影先生",
-            "name": "┃电影秒播┃",
-            "type": 3,
-            "api": "./lib/apiv15apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/电影先生.js"
-        },
+       
         {
             "key": "csp_胖虎",
             "name": "┃胖虎秒播┃",
@@ -1003,27 +867,8 @@
             "filterable": 1,
             "jar": "./lib/秒播3.jar"
         },
-        {
-            "key": "meowtv_yksp",
-            "name": "┃优酷秒播┃",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/优酷视频.js"
-        },
-        {
-            "key": "meowtv_sgys",
-            "name": "┃搜狗秒播┃",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/搜狗视频.js",
-            "jar": "./lib/秒播7.jar"
-        },
+      
+    
         {
             "key": "meowtv_Shys",
             "name": "┃双黄秒播┃",
@@ -1035,50 +880,8 @@
             "ext": "./lib/双黄影视.json",
             "jar": "./lib/秒播6.jar"
         },
-        {
-            "key": "meowtv_kkys",
-            "name": "┃看看秒播┃",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/看看影视.js",
-            "jar": "./lib/秒播7.jar"
-        },
-        {
-            "key": "meowtv_qfys",
-            "name": "┃起飞秒播┃",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/起飞影视.js",
-            "jar": "./lib/秒播7.jar"
-        },
-        {
-            "key": "meowtv_nyys",
-            "name": "┃纽约秒播┃",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/纽约影视.js",
-            "jar": "./lib/秒播7.jar"
-        },
-        {
-            "key": "meowtv_vfys",
-            "name": "┃VOF秒播┃",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/VOF影视.js",
-            "jar": "./lib/秒播7.jar"
-        },
+
+
         {
             "key": "酷酷",
             "name": "┃酷影秒播┃",
@@ -1120,23 +923,7 @@
             "searchable": 1,
             "quickSearch": 1
         },
-        {
-            "key": "FREE1OK",
-            "name": "┃Free 秒播┃",
-            "type": 3,
-            "playerType": "1",
-            "api": "./lib/apiv500drpy2.min.js",
-            "ext": "./lib/FreeOK.js",
-            "jar": "./lib/秒播11.jar"
-        },
-        {
-            "key": "drpy_js_360影视",
-            "name": "┃360 秒播┃",
-            "type": 3,
-            "api": "./lib/apiv500drpy2.min.js",
-            "ext": "./lib/360.js",
-            "jar": "./lib/秒播11.jar"
-        },
+ 
         {
             "key": "suying影视",
             "name": "┃速映秒播┃",
