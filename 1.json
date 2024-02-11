@@ -6,16 +6,16 @@
         },
         {
             "sourceName": "🍥直播频道🍥",
-            "sourceUrl": "https://cdn.jsdelivr.us/gh/zikai2023/box@main/zhibo/a.json"
+            "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/zikai2023/box/main/zhibo/a.json"
         },
 
         {
             "sourceName": "🍥秒播频道🍥",
-            "sourceUrl": "https://cdn.jsdelivr.us/gh/zikai2023/box@main/mb/a.json"
+            "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/zikai2023/box/main/mb/a.json"
         },
         {
             "sourceName": "🍥影视包集合🍥",
-            "sourceUrl": "https://cdn.jsdelivr.us/gh/zikai2023/box@main/hjgyBD/a.json"
+            "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/zikai2023/box/main/hjgyBD/a.json"
         },
 
         {
