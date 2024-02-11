@@ -1,6 +1,6 @@
 {
 	    "wallpaper": "https://img.n13.club/",
-    "spider": "./lib/fty.txt",
+    "spider": "https://cdn.jsdelivr.us/gh/zikai2023/box@main/mb/lib/fty.txt",
     "warningText": "接口完全免费，随便白嫖。",
     "sites": [
         {
