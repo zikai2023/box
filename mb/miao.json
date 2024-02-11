@@ -1,6 +1,6 @@
 {
 
-    "spider": "./lib/秒播.jar",
+  "spider": "./秒播.txt",
     "warningText": "接口完全免费，随便白嫖。",
     "sites": [
         {
