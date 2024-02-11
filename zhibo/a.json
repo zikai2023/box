@@ -1,8 +1,8 @@
 {
   "urls": [
-{"url":"https://raw.kkgithub.com/zikai2023/box/main/zhibo/1.json","name":"🍥电视直播🍥"},
-{"url":"https://raw.kkgithub.com/zikai2023/box/main/zhibo/2.json","name":"🍥黑料+哔哔+动漫🍥"},
-{"url":"https://raw.kkgithub.com/zikai2023/box/main/zhibo/av.json","name":"🍥正点采集🍥"},
+{"url":"https://cdn.jsdelivr.us/gh/zikai2023/box@main/zhibo/1.json","name":"🍥电视直播🍥"},
+{"url":"https://cdn.jsdelivr.us/gh/zikai2023/box@main/zhibo/2.json","name":"🍥黑料+哔哔+动漫🍥"},
+{"url":"https://cdn.jsdelivr.us/gh/zikai2023/box@main/zhibo/av.json","name":"🍥正点采集🍥"},
 {"url":"","name":"🍥点击\"主页\"选择更多菜单🍥"}
  ]
 }
