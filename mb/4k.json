@@ -17,17 +17,17 @@
       "name": "┃阿里♥配置┃",
       "type": 3,
       "api": "csp_KungFu404",
-      "jar": "./lib/秒播15.txt",
+      "jar": "./lib/秒播15.jar",
       "searchable": 0,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.jar+4k|fhd|auto"
     },
     {
       "key": "配置中心",
       "name": "┃夸克♥配置┃",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./lib/秒播16.txt",
+      "jar": "./lib/秒播16.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {"type": "rect","ratio": 1 },
@@ -313,7 +313,7 @@
   ],
     
   "wallpaper": "https://img.n13.club/",
-  "spider": "./lib/秒播.txt",
+  "spider": "./lib/秒播.jar",
   "warningText":"接口完全免费，随便白嫖。",
   
   
@@ -323,7 +323,7 @@
       "name": "超级秒播",
       "type": 0,
       "playerType": 1,
-      "url": "./lib/tv.txt",
+      "url": "./lib/tv.jar",
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
